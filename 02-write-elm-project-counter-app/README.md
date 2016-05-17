@@ -8,7 +8,6 @@
 ```
 # use this js for start app
 Elm.Main.fullscreen();
-# Main should same the name of elm file
 ```
 ### Main.elm use model, update, view architecture
 ### Command to build elm.js
