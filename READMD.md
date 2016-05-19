@@ -8,3 +8,6 @@
 ## Clojurescript
 #### 04-start-simple-clojurescript
 #### 05-clojurescript-livereload
+#### 06-clojurescript-repl
+#### 07-clojurescript-overwrite-default-resource
+#### 08-clojurescript-login-form
