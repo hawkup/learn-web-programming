@@ -11,3 +11,14 @@
 #### 06-clojurescript-repl
 #### 07-clojurescript-overwrite-default-resource
 #### 08-clojurescript-login-form
+
+## Java && RabbitMQ
+#### 09-java-rabbitmq-helloworld
+#### 10-java-rabbitmq-work-queues
+#### 11-java-rabbitmq-publish-subscribe
+#### 12-java-rabbitmq-routing
+#### 13-java-rabbitmq-topics
+#### 14-java-rabbitmq-rpc
+
+## Thrift
+#### 15-getting-started-thrift
